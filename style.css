@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f8f9fa;
+    color: #333;
+}
+
+.hero {
+    background: linear-gradient(to right, #1f4037, #99f2c8);
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    background: #fff;
+    color: #1f4037;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 50px 20px;
+    gap: 30px;
+}
+
+.feature {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 250px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 30px 0;
+    background: #eee;
+    margin-top: 50px;
+}
