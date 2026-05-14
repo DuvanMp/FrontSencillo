@@ -1,0 +1,44 @@
+Hello Carolina,
+
+Thank you for reaching out and for considering my application for the .NET Developer position. I am very interested in this opportunity.
+
+Below are the answers to your questions:
+
+How many years of hands-on experience do you have with .NET, ASP.NET?
+I have over 12 years of hands-on experience working with .NET and ASP.NET, starting from my role at SOLINT in 2014 up to my current position at Fundación de la Mujer.
+
+Are you willing to work on a daily basis with AI tools?
+Yes, absolutely. I have a proactive mentality and a permanent disposition to learn, making me very open to adapting and integrating AI tools into my daily workflow to improve efficiency.
+
+Do you have experience with Frontend technologies?
+I have solid experience with JavaScript, HTML, CSS, Bootstrap, and jQuery. While my core expertise leans backend, my strong fundamentals in JavaScript allow me to adapt to modern frameworks like React, Angular, or Vue.js as needed.
+
+Do you have experience with Design patterns and related concepts?
+Yes. I have experience designing and implementing scalable solutions, specifically based on microservices. I am familiar with the MVC pattern, performance considerations for scalability, and asynchronous processing (e.g., using AWS Lambda for lightweight endpoints and workloads).
+
+Do you have experience with Microsoft Azure in a production environment? How many years?
+Yes, I have experience with Azure SQL and utilized Azure services during my nearly 7 years at SOLINT. In recent years, my cloud expertise has expanded heavily into AWS (EKS, ECS, Lambda, RDS, etc.) focusing on containerization and CI/CD pipelines.
+
+Are you open to adapting to new technologies or solutions if the project requires it?
+Yes, I am a highly receptive individual and I consider my permanent willingness to learn new technologies one of my core strengths.
+
+What is the duration of your notice period? How quickly can you start?
+My notice period is 1 week, so I can start very quickly once an agreement is reached.
+
+What is your level of English?
+I have a Basic level of spoken English. I am very comfortable reading and writing in English, especially for technical documentation, code, and written communication. However, I currently cannot maintain a fluent spoken conversation or pass a fully spoken technical interview in English.
+
+Where are you currently located? What is your legal status?
+I am currently located in Bucaramanga, Santander, Colombia, and I am a Colombian citizen.
+
+Can you share your expected MONTHLY rate in USD (gross)?
+My expected monthly rate is $2,000 USD gross.
+
+I have attached my updated resume in English as requested.
+
+Thank you again for your time, and I look forward to hearing from you.
+
+Best regards,
+
+Duván Martínez
+324 685 3552
